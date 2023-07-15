@@ -25,8 +25,8 @@
 .imggg{
     width: 350px;
 }
-
-
+body{overflow-x: hidden;
+}
 }
 @media  (min-width:994px){
    .h11{font-size: 80px;
