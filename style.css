@@ -15,23 +15,45 @@
     width: 300px;
    }
    .h111{
-    font-size: 25px;
+    font-size: 45px;
     font-weight: 700;
     color: rgb(22, 22, 65);
 }
 .pp11{
-    font-size: 10px;
+    font-size: 20px;
 }
 .imggg{
     width: 350px;
 }
 body{overflow-x: hidden;
 }
+.twophotos{
+width: 380px;
+margin: 10px;
+}
+.thhhhhh{
+    width: 380px;
+    margin: 10px;
+}
+.twophotoss{
+    display: flex;
+    flex-direction:column;
+    
+}
+.productssss{
+    margin: 10px;
+}
 }
 @media  (min-width:994px){
    .h11{font-size: 80px;
    
    }
+   .twophotoss{
+    display: flex;
+    flex-direction:column;
+    gap: 30px;
+    
+}
    .firsttextss{
     margin-top: 300px;
    }
@@ -97,12 +119,7 @@ body{overflow-x: hidden;
     z-index: 0.6;
 
 }
-.twophotoss{
-    display: flex;
-    flex-direction:column;
-    gap: 30px;
-    
-}
+
 
 .productssss{
     margin-top: 50px;
