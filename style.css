@@ -5,8 +5,28 @@
    .h11{
     font-size:40px;
    }
-   
-   
+   .firsttextss{
+    margin-top: 100px;
+   }
+   .productssss{
+    margin-left: 0px;
+   }
+   .watchhhhh{
+    width: 300px;
+   }
+   .h111{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(22, 22, 65);
+}
+.pp11{
+    font-size: 10px;
+}
+.imggg{
+    width: 350px;
+}
+
+
 }
 @media  (min-width:994px){
    .h11{font-size: 80px;
@@ -15,6 +35,20 @@
    .firsttextss{
     margin-top: 300px;
    }
+   .productssss{
+    margin-left: 80px;
+   }
+   .watchhhhh{
+    width: 450px;
+   }
+   .h111{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(22, 22, 65);
+}
+.imggg{
+    width: 400px;
+}
 }
 
 
@@ -51,9 +85,7 @@
     transform:scale(0.99);
     z-index: 0.6;
 }
-.imggg{
-    width: 400px;
-}
+
 
 
 .twophotos:hover{
@@ -68,13 +100,13 @@
 .twophotoss{
     display: flex;
     flex-direction:column;
-    gap: 31px;
+    gap: 30px;
     
 }
 
 .productssss{
     margin-top: 50px;
-    margin-left: 80px;
+    
 }
 .productssss p{
     color: red;
@@ -114,18 +146,8 @@
     text-align: center;
 }
 
-.container2{
-    margin-left: 100px;
-}
-.h111{
-    font-size: 50px;
-    font-weight: 700;
-    color: rgb(22, 22, 65);
-}
-.container3{
-    
-    margin-right: 120px;
-}
+
+
 
 
 
